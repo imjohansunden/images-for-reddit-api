@@ -1,0 +1,17 @@
+{
+  "name": "imagesforredditapi",
+  "version": "1.0.0",
+  "description": "images for reddit api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "md5": "^2.2.1",
+    "request": "^2.78.0"
+  }
+}
